@@ -1,4 +1,3 @@
-anaconda-navigator
 streamlit
 streamlit-authenticator
 scikit-learn
